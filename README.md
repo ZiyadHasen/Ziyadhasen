@@ -1,4 +1,4 @@
-\<img align="right" alt="Professional Coding" width="300" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3NzYyZTNjMTAyNDQ2MGM2ZjBjNzcyYjE4ZWIwN2QzYjRhNmRlJmep=v1\_gifs\_search\&ct=g/Ws4F96U1Vjg/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3NzYyZTNjMTAyNDQ2MGM2ZjBjNzcyYjE4ZWIwN2QzYjRhNmRlJmep%3Dv1_gifs_search%26ct%3Dg/Ws4F96U1Vjg/giphy.gif)" /\>
+<img align="right" alt="Professional Coding" width="300" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3NzYyZTNjMTAyNDQ2MGM2ZjBjNzcyYjE4ZWIwN2QzYjRhNmRlJmep=v1\_gifs\_search\&ct=g/Ws4F96U1Vjg/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3NzYyZTNjMTAyNDQ2MGM2ZjBjNzcyYjE4ZWIwN2QzYjRhNmRlJmep%3Dv1_gifs_search%26ct%3Dg/Ws4F96U1Vjg/giphy.gif)" /\>
 
 
 
