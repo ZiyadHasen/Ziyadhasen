@@ -1,6 +1,5 @@
 <!-- Coding GIF on the right -->
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Q0NzU0M2Y0MDRkYzVhYzVhNjE0YzZiMDc3ODM4YzM4YzVhZDU1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btPCcdNniyf0ArS/giphy.gif" />
-
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVhMDVhNzlkZmY1ODM4YzVhYzVhNjE0YzZiMDc3ODM4YzM4YzVhZDU1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKz2B8wI1k7z8Y8/giphy.gif" />
 <h1 align="center">
   👋 Hey, I'm Ziyad!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
