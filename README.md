@@ -1,5 +1,7 @@
-<!-- Coding GIF on the right -->
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVhMDVhNzlkZmY1ODM4YzVhYzVhNjE0YzZiMDc3ODM4YzM4YzVhZDU1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKz2B8wI1k7z8Y8/giphy.gif" />
+\<img align="right" alt="Professional Coding" width="300" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3NzYyZTNjMTAyNDQ2MGM2ZjBjNzcyYjE4ZWIwN2QzYjRhNmRlJmep=v1\_gifs\_search\&ct=g/Ws4F96U1Vjg/giphy.gif](https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWY3NzYyZTNjMTAyNDQ2MGM2ZjBjNzcyYjE4ZWIwN2QzYjRhNmRlJmep%3Dv1_gifs_search%26ct%3Dg/Ws4F96U1Vjg/giphy.gif)" /\>
+
+
+
 <h1 align="center">
   👋 Hey, I'm Ziyad!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
