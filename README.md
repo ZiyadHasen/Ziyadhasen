@@ -24,6 +24,18 @@
 
 ---
 
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/ziyad-hasen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" width="120" />
+  </a>
+  <a href="https://t.me/ziyad_hasen" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" width="120" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,19 +51,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
-
-
----
-
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/ziyad-hasen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=30" />
-  </a>
-  <a href="https://t.me/ziyad_hasen" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&height=30" />
-  </a>
-</p>
-
 ---
 
