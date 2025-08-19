@@ -44,10 +44,10 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/ziyadhasen" target="_blank">
+  <a href="https://linkedin.com/in/ziyad-hasen" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&height=30" />
   </a>
-  <a href="https://t.me/yourtelegram" target="_blank">
+  <a href="https://t.me/ziyad_hasen" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white&height=30" />
   </a>
 </p>
