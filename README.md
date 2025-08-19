@@ -17,9 +17,10 @@
 ---
 
 ### 🚀 About Me
-- 💻 **Fullstack Developer**: Crafting seamless apps with React, Next.js, Node.js, Express, MongoDB, and PostgreSQL  
-- 🌱 **Currently Exploring**: Backend architecture, system design, and scalable solutions  
-- ⚡ **Life Motto**: *Discipline + Focus = Success*
+- 👨‍💻 **Software Engineer**: Converting coffee into React apps that (usually) don’t crash 
+- 🧠 **Deep Diving**: Advanced React — performance tuning, SSR/SSG, suspense, advanced patterns with TypeScript   
+- 🔍 **Exploring**: Opinionated fullstack frameworks (NestJS) and the React ecosystem focussing on Next.js
+- ♟ **Side Quest**: Trying to survive a chess game without hanging my queen in under 5 moves 
 
 ---
 
