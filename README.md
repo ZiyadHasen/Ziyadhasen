@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&height=50&lines=Fullstack+Software+Engineer;React+%26+Node.js+Enthusiast;Mastering+Backend+Architecture;Always+Crafting+New+Projects" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&pause=800&color=00C4B4&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Turning+Ideas+into+Reality;Creative+Problem+Solver;Deep+Work+Advocate" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💻 **Fullstack Developer**: Building seamless apps with React, Next.js, Node.js, Express, MongoDB, and PostgreSQL  
+- 💻 **Fullstack Developer**: Crafting seamless apps with React, Next.js, Node.js, Express, MongoDB, and PostgreSQL  
 - 🌱 **Currently Exploring**: Backend architecture, system design, and scalable solutions  
 - ⚡ **Life Motto**: *Discipline + Focus = Success*
 
