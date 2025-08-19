@@ -1,5 +1,4 @@
-<!-- New GIF on the right -->
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnbjhhbGtnYm5rbWdtdHBwYnVsaXR3c29ncjNpaHR2bHF2M2ZkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" />
+
 
 
 
