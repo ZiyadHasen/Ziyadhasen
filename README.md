@@ -1,5 +1,5 @@
-<!-- Fun coding GIF on the right -->
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- New GIF on the right -->
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlnbjhhbGtnYm5rbWdtdHBwYnVsaXR3c29ncjNpaHR2bHF2M2ZkcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" />
 
 <h2 align="center">
   Hi 👋, I'm Ziyad  
@@ -8,26 +8,33 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;React+%2B+Node.js;Learning+Backend+Architecture;Building+cool+stuff&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;React+%2B+Node.js;Learning+Backend+Architecture;Always+building+something&center=true&width=600&height=45&color=f75c7e&vCenter=true&size=24">
   </a>
 </p>
 
 ---
 
+### About Me
+- 👨‍💻 Fullstack developer (React, Next.js, Node.js, Express, MongoDB, PostgreSQL)  
+- 🌱 Currently digging deeper into backend architecture & system design  
+- ⚡ Fact: Focus + Discipline > Motivation  
+
+---
+
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" />
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js" />
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" />
-  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
